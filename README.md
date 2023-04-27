@@ -30,6 +30,7 @@ Bi-directional Reflectance Distribution Function (BRDF)
 
 ## Image Based Lighting
 Environment mapping for more physically accurate vizualization.
+
 Diffuse Irradiance:
 - Using another Schlick approximation of the Fresnel factor that takes roughness into account
 - Using a pre-filtered environment map (given, already convoluted)
