@@ -36,6 +36,6 @@ Diffuse Irradiance:
 - Using a pre-filtered environment map (given, already convoluted)
 
 Specular Radiance:
-- Using OpenGL's built-in MipMaps to get the different Levels Of Detail (LODs)
+- Using OpenGL's built-in Mipmaps to get the different Levels Of Detail (LODs)
 - Using the Epic Games' pre-computed BRDF integration map
 - (Limitations corrections) HDR Tone Mapping, Gamma Correction
